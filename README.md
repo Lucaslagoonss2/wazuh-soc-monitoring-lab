@@ -131,3 +131,43 @@ scripts/
 ## Disclaimer
 
 This project is intended exclusively for educational purposes, defensive security training, and cybersecurity portfolio development within controlled lab environments.
+
+
+## Lab Progress Update (2026-06-16)
+
+### Completed
+
+* Wazuh Docker Stack deployed and operational
+* Wazuh Dashboard accessible
+* Windows endpoint enrolled into Wazuh
+* Agent ID 002 successfully connected and active
+* Sysmon installed and validated
+* Security events successfully forwarded to Wazuh Dashboard
+
+### Evidence Collected
+
+* 01-wazuh-agent-list.png
+* 03-sysmon-operational.png
+* 04-wazuh-events.png
+
+### Next Steps
+
+* Threat Hunting exercises
+* Custom alert creation
+* Attack simulation scenarios
+* SOC investigation workflow
+* MITRE ATT&CK mapping
+
+---
+
+## Current Progress
+
+* [x] Repository created
+* [x] Documentation structure created
+* [x] Wazuh deployment
+* [x] Sysmon deployment
+* [x] Endpoint enrollment
+* [ ] Scenario 01 – PowerShell Obfuscation
+* [ ] Scenario 02 – Brute Force Authentication Failures
+* [ ] Scenario 03 – Scheduled Task Persistence
+* [ ] Scenario 04 – SMB Authentication Failures
