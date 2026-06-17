@@ -111,27 +111,7 @@ docs/
 scenarios/
 scripts/
 ```
-
 ---
-
-## Current Progress
-
-* [x] Repository created
-* [x] Documentation structure created
-* [ ] Wazuh deployment
-* [ ] Sysmon deployment
-* [ ] Endpoint enrollment
-* [ ] Scenario 01
-* [ ] Scenario 02
-* [ ] Scenario 03
-* [ ] Scenario 04
-
----
-
-## Disclaimer
-
-This project is intended exclusively for educational purposes, defensive security training, and cybersecurity portfolio development within controlled lab environments.
-
 
 ## Lab Progress Update (2026-06-16)
 
@@ -170,4 +150,8 @@ This project is intended exclusively for educational purposes, defensive securit
 * [ ] Scenario 01 – PowerShell Obfuscation
 * [ ] Scenario 02 – Brute Force Authentication Failures
 * [ ] Scenario 03 – Scheduled Task Persistence
-* [ ] Scenario 04 – SMB Authentication Failures
+* [ ] Scenario 04 – SMB Authentication Failures                                                                  
+
+## Disclaimer
+
+This project is intended exclusively for educational purposes, defensive security training, and cybersecurity portfolio development within controlled lab environments.
